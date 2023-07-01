@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="Parametres">parametres</string>
+    <string name="Compte">Compte</string>
+    <string name="Confidentialité"> Compte
+    </string>
+
+    <string name="Disponible">Disponible</string>
+    <string name="userName">Nom d\'utilisateur</string>
+    <string name="actu">Actu</string>
+    <string name="comptText">Notification de sécurité, changer de numéro</string>
+    <string name="Discussions">Discussions</string>
+    <string name="discussionText">Thème,fonds d\'écrans, historique des discussions</string>
+    <string name="Notification">Notification</string>
+    <string name="notificationText">Sonnerie des messages, groupes et appels</string>
+    <string name="utilisationDonne">donnée et stockage</string>
+    <string name="utilisationText">Utilisateur réseau, téléchargements auto</string>
+    <string name="langage">Langage</string>
+    <string name="langageText">Français (langue du téléphone)</string>
+    <string name="Aide">Aide</string>
+    <string name="aideText">Centre d\'aide, contactez-nous, politique de confidentialité</string>
+    <string name="nom_d_utilisateur">nom d\'utilisateur</string>
+    <string name="email">email</string>
+    <string name="mot_de_passe">password</string>
+    <string name="se_connecter">sign-in</string>
+    <string name="valider">submit</string>
+    <string name="confirmer_mot_de_passe">confirm password</string>
+    <string name="tel">phone number</string>
+    <string name="nom_et_pr_nom">lastname and firstname</string>
+    <string name="inscription">Register</string>
+    <string name="act">email</string>
+</resources>
